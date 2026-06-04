@@ -1,25 +1,22 @@
 ### Professional penguin employed at Southpole Inc., Antarctica.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 <!-- hidden until Github updates the API and counts actual user commits xd -->
 <!-- [![Top Langs](https://leloomighstats.vercel.app/api/top-langs/?username=LeLoomi&exclude_repo=github-readme-stats&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Doing right now
-- Putting together an [automated medical sewing training setup](https://github.com/LeLoomi/Hybparc_sewing) <sup>excluding the AI evaluation stuff of it</sup>
-- Putting together an [automated ECG-placement training setup](https://github.com/LeLoomi/Hybparc_aruco)
-- Maintaining and expanding [VanillaRice](https://github.com/LeLoomi/VanillaRice)
-
-Wanting to do but no time:
-- LL embedded stuff
+- Developing in C for a microcontroller + in Swift for companion app
+- Maintaining and expanding my Minecraft mod [VanillaRice](https://github.com/Loomiyaa/VanillaRice)
 
 Did in the past
-- Unity x AR
-- Unity x Hololens 2
+- Desktop frontend development (<i>[ECG placement](https://github.com/Loomiyaa/Hybparc_aruco) and [medical suturing](https://github.com/Loomiyaa/Hybparc_sewing) softwares</i>)
+- Real-time OpenCV marker tracking (<i>[ArucoRoi](https://github.com/Loomiyaa/ArucoRoi)</i>)
+- Unity x AR for mobile phones
+- Unity x AR for Hololens 2
 - Java x Springboot Webdev
 - Unity for mobile
-- SwiftUI sketching stuff (<i>[Swiftgram](https://github.com/LeLoomi/Swiftgram)</i>)
-
-Certified godot hater.
+- SwiftUI sketching stuff (<i>[Swiftgram](https://github.com/Loomiyaa/Swiftgram)</i>)
